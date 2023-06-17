@@ -198,7 +198,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ![](https://github.com/CesarG16/DHT22RED/blob/main/EJE8.png?raw=true)
 ![](https://github.com/CesarG16/DHT22RED/blob/main/EJE9.png?raw=true)
 ![](https://github.com/CesarG16/DHT22RED/blob/main/EJE10.png?raw=true)
-![](https://github.com/CesarG16/DHT22RED/blob/main/EJE11.png?raw=true)
+![](https://github.com/CesarG16/DHT22RED/blob/main/EJE14.png?raw=true)
 
 12. Tras esto se da en el boton rojo de arriba a la derecha que dice Deploy y cuando esté listo se le da en el siguiente boton que esta abajo de Deploy para que abra una nueva página y se visualice el resultado:
 
